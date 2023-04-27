@@ -1,0 +1,56 @@
+[
+    {
+      "title": "El primer hombre de Roma",
+      "author": "Colleen McCullough",
+      "publishing": "Editorial Planeta S.A.",
+      "edition": 1,
+      "year": 2000,
+      "pages": 832,
+      "isbn": 8408024000,
+      "rating": 4,
+      "read": true
+    },
+    {
+      "title": "La corona de hierba",
+      "author": "Colleen McCullough",
+      "publishing": "Editorial Planeta S.A.",
+      "edition": 1,
+      "year": 2000,
+      "pages": 856,
+      "isbn": 8408023993,
+      "rating": 4,
+      "read": true
+    },
+    {
+      "title": "Héroes, aventureros y cobardes",
+      "author": "Jacinto Antón",
+      "publishing": "RBA Libros S.A.",
+      "edition": 1,
+      "year": 2013,
+      "pages": 493,
+      "isbn": 9788490068037,
+      "read": false
+    },
+    {
+      "title": "Favoritos de la fortuna",
+      "author": "Colleen McCullough",
+      "publishing": "Editorial Planeta S.A.",
+      "edition": 1,
+      "year": 2001,
+      "pages": 840,
+      "isbn": 8408023985,
+      "rating": 4,
+      "read": true
+    },
+    {
+      "title": "La caída del Imperio Romano. Las causas militares",
+      "author": "Arther Ferrill",
+      "publishing": "Biblioteca Edaf",
+      "edition": 1,
+      "year": 1998,
+      "pages": 304,
+      "isbn": 8441403988,
+      "rating": 0,
+      "read": false
+    }
+  ]
