@@ -40,7 +40,7 @@ func main() {
 
 	insertFromFile("./books.json")
 
-	deleteBook("El primer hombre de Roma")
+	//deleteBook("El primer hombre de Roma")
 
 	libros, err := getBooks()
 	if err != nil {

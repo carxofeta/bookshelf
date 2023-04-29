@@ -52,5 +52,27 @@
       "isbn": 8441403988,
       "rating": 0,
       "read": false
+    },
+    {
+      "title": "El Universo en tu mano",
+      "author": "Christophe Galfard",
+      "publishing": "Blackie Books",
+      "edition": 3,
+      "year": 2016,
+      "pages": 464,
+      "isbn": 9788416290628,
+      "rating": 3,
+      "read": true
+    },
+    {
+      "title": "Los cañones de agosto",
+      "author": "Barbara W. Tuchman",
+      "publishing": "RBA Libros S.A.",
+      "edition": 2,
+      "year": 2012,
+      "pages": 591,
+      "isbn": 9788490061626,
+      "rating": 4,
+      "read": true
     }
   ]
